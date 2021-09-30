@@ -1,7 +1,7 @@
 # Desafio de projeto sobre Git/Github
 >  Este repositório será atualizando com os cursos que finalizei na Digital Innovation One.
 
-## Lista - clique para baixar o certificado.
+## Lista - clique para visualizar o certificado.
 1.  [Introdução ao Git e ao Github](https://certificates.digitalinnovation.one/FDCAE7C7)
 2.  [Aprenda o que são Estrutura de Dados e Algoritmos](https://certificates.digitalinnovation.one/BD8490BC)
 3.  [Lógica de programação essencial](https://certificates.digitalinnovation.one/BA28F619)
